@@ -30,4 +30,5 @@ Enter either I (intense) or M (mild) to indicate the severity of the blindness.
 I
 Avoid using red and green shades next to each other, blue and purple do not work well together but paired with other colors will stand out.
 Place blue/purple near green/red for maximum visibility.
+It is optimal to avoid all colors that are difficult to see, unless you are using a grayscale pallet.
 ```
