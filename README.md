@@ -1,15 +1,15 @@
-# Replace with your unique project name
+# Determining Color Combinations 
 
 ## Description
 
 **version 1.0**
 
-Replace with a description of *what* your program does (not *how* it works)
-
+This program gives the user information on different tyoes of colorblindness and some basic color combinations to use/avoid
+depending on what the user inputs.
 
 ## Developer
 
-Replace with your name
+Danny Booth
 
 ## Example
 
@@ -23,5 +23,9 @@ g++ --std=c++11 *.cpp -o cvp
 Here is an example of the program running:
 
 ```
-Replace this with a copy-pasted example of the input/output of your program running.
+Enter the number associated with the type of blindness you want info on: 
+Enter 1 for red-green color blindness, 2 for blue-yellow color blindness, 3 for complete colorblindness. 
+1
+Avoid using red and green shades next to each other, blue and purple do not work well together but paired with other colors will stand out.
+Place blue/purple near green/red for maximum visibility.
 ```
