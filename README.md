@@ -2,10 +2,10 @@
 
 ## Description
 
-**version 1.0**
+**version 2.0**
 
 This program gives the user information on different types of colorblindness and some basic color combinations to use/avoid
-depending on what the user inputs.
+depending on what the user inputs. It also will soon be able to give the user a number to compliment the one they input.
 
 ## Developer
 
